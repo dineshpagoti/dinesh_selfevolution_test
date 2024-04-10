@@ -9,7 +9,7 @@
 
 ## Tech Stack
 
-    Used ReactJS, React Router, React Context API, CSS
+    Used ReactJS, React Router, CSS
 
 ## Completion Instructions
 
